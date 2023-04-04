@@ -868,12 +868,11 @@ section {
 }
 
 .text-center-xs {
-	text-align: center !important;
+	text-align: start !important;
 }
 
 .pull-none-xs {
 	float: none !important;
-	text-align: center !important;
 }
 
 .mb-15-xs {
